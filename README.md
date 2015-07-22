@@ -1,0 +1,2 @@
+# simpleblog
+test blog init
